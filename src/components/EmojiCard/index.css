@@ -1,0 +1,14 @@
+.emoji-btn {
+  background-color: #ffffff33;
+  border-radius: 20px;
+  border-color: #ffffff30;
+  border-width: 1px;
+  margin: 7px;
+  padding: 18px;
+  height: 125px;
+  width: 125px;
+}
+
+.emoji {
+  height: 75px;
+}

@@ -1,0 +1,26 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  min-height: 100vh;
+}
+
+.emoji-list-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ul-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 500px;
+}
+
+@media screen and (min-width: 576px) {
+  .ul-container {
+    width: 600px;
+  }
+}

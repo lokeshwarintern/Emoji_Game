@@ -1,0 +1,50 @@
+.win-or-lose-card {
+  background-color: #ffffff33;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  border-radius: 20px;
+  border-color: #ffffff30;
+  border-width: 1px;
+  height: 600px;
+  width: 400px;
+}
+
+.win-or-lose-img {
+  height: 300px;
+}
+
+.status-text {
+  font-family: Roboto;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.score-ele {
+  color: #ffffff;
+  font-family: Roboto;
+  font-weight: bold;
+  text-align: center;
+  margin: 0px;
+}
+
+.result-ele {
+  color: #6a59ff;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 32px;
+  margin: 0px;
+}
+
+.btn-ele {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  font-family: Roboto;
+  border-radius: 20px;
+  padding: 14px;
+  border-width: 0px;
+  font-weight: 400;
+  margin-top: 20px;
+}
